@@ -1,6 +1,6 @@
 # Overview
 
-This project attempts to reproduce the results from a 1989 paper:
+This project attempts to reproduce the results from a 1991 paper:
 
 [Pessimistic rumination in popular songs and newsmagazines predict economic recession via decreased consumer optimism and spending](https://www.sciencedirect.com/science/article/abs/pii/016748709190029S)
 
