@@ -1,6 +1,6 @@
 # Overview
 
-This project attempts to reproduce the results from a 1989 paper:
+This project attempts to reproduce the results from a 1991 paper:
 
 [Pessimistic rumination in popular songs and newsmagazines predict economic recession via decreased consumer optimism and spending](https://www.sciencedirect.com/science/article/abs/pii/016748709190029S)
 
@@ -40,4 +40,4 @@ The results of the paper could not be recreated. In fact, the correlations found
 
 # Future Improvements
 
-When time permits, I would like to create a LSTM model capable of making similar predictions. Also, including things that economists expect to affect changes in GDP would also be interesting like monetary/financial policy. This could be especially interesting as our model (which attempts to quantify a perviously exogenous consumer pessimism) could endogenize consumer pessimism thereby helping to separate the effects of government policy from cultural or time-dependent changes.
+When time permits, I would like to create a LSTM model capable of making similar predictions. Also, including things that economists expect to affect the way GDP changes over time would also be interesting like monetary/fiscal policy. This could be especially interesting as our model (which attempts to quantify a perviously exogenous consumer pessimism) could endogenize consumer pessimism thereby helping to separate the effects of government policy from cultural or time-dependent changes.
